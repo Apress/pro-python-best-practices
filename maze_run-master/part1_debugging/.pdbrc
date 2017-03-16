@@ -1,0 +1,3 @@
+print(dir())
+import pprint
+ll

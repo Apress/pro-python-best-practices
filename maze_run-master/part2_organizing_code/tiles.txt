@@ -1,0 +1,7 @@
+REMARK x and y positions of tiles in the .xpm file
+#	0	0
+ 	0	1
+x	1	1
+.	2	0
+*	3	0
+g	5	0
