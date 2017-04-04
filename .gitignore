@@ -1,0 +1,10 @@
+*.pyc
+pygame/*
+*.log
+
+password.txt
+.cache
+chapters/17_documentation/_build/
+.idea
+_pygame
+*/__pycache__/*

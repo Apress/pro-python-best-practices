@@ -1,0 +1,245 @@
+commit 8633a6684be437d6291732909c5a74c1a0e0acfc
+Author: krother <krother@academis.eu>
+Date:   Sat Jul 9 21:07:08 2016 +0200
+
+    added password to .gitignore
+
+commit 57bdf0b9e4ad3ec0ba0dd0d367036e505564debf
+Author: krother <krother@academis.eu>
+Date:   Fri Jul 1 11:45:40 2016 +0200
+
+    improved module docstring for maze generator
+
+commit b865b483a7e042e02724464cc6bd944b23e2324e
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 21:18:51 2016 +0200
+
+    cleaned up scripts for part 1
+
+commit dbc3822a2d3a82273c0b602adf203085e749fde8
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 15:06:36 2016 +0200
+
+    added chapter links to README
+
+commit b12f390e50c9ecb174a995f84ff3f55dd93bcdc6
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 14:48:16 2016 +0200
+
+    linking chapter branch from README
+
+commit fb99da022985dc243cbbbcd62efe227f66238787
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 13:49:03 2016 +0200
+
+    created branch for chapter 12
+
+commit 1b0fcb5f8954e16fdb7f7a6b4e81aaa3eed070f5
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 13:48:30 2016 +0200
+
+    created branch for chapter 11
+
+commit 4a633bdbf1d2f758e8947206a467f0a72a9037b2
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 13:47:50 2016 +0200
+
+    created branch for chapter 10
+
+commit 3ec9eaec42d40f7df00e552abf978481ea68ed83
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 13:44:04 2016 +0200
+
+    refactored out create_display()
+
+commit 34a706331cf7040638efe7c71b6c4334511542da
+Author: krother <krother@academis.eu>
+Date:   Fri May 27 10:44:52 2016 +0200
+
+    cleaned up code for chapter 10
+
+commit a1584effba8aeee2752b997a55be1348c3481fb9
+Author: krother <krother@academis.eu>
+Date:   Tue May 24 21:45:39 2016 +0200
+
+    cleaned up code for chapter09
+
+commit fd87f22486e6e41dff59d9b2b9ac9b60eb6d2972
+Author: krother <krother@academis.eu>
+Date:   Tue May 24 18:05:06 2016 +0200
+
+    added code examples for chapter 08
+
+commit c57e1b4443cf160b8fdc155997d2fa8b8ba21ab8
+Author: krother <krother@academis.eu>
+Date:   Mon May 23 15:39:53 2016 +0200
+
+    cleaned up code for part 1
+
+commit 528be6552f956d2bdefe01a7efa359584316565c
+Author: krother <krother@academis.eu>
+Date:   Mon May 23 11:03:45 2016 +0200
+
+    cleaned up code for chapter 05
+
+commit d8a82e02bc57a9e33e2f2ae0437dc1530dbf4336
+Author: krother <krother@academis.eu>
+Date:   Mon May 23 00:13:16 2016 +0200
+
+    cleaned code for chapter 04
+
+commit 6c3f01bb1efbe1dfdf6479a60c96897505c1d7a4
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 07:38:25 2016 +0200
+
+    cleaned up code for chapter 03
+
+commit 4e57ebeaaec22dcd9231e86328972b77c7cfdb61
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 07:01:15 2016 +0200
+
+    completed cleanup
+
+commit ed8574b8f1b123f96917cf21afb84cc93d27300e
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:59:44 2016 +0200
+
+    moved part2
+
+commit 1c00e5e99821781dbc2fdf9b2d3ba19e7c13f238
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:55:53 2016 +0200
+
+    added code for part2
+
+commit 285f37eb7d6bc69468a23de4a636f01d08e4a1c1
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:55:00 2016 +0200
+
+    cleaned chapter 02
+
+commit 0de499696ff57d5dab3fd8ec55121abde391daa4
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:32:15 2016 +0200
+
+    finished reorganizing
+
+commit b9699d1e57292d33aa908a790013c93e15f24962
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:29:25 2016 +0200
+
+    reorganizd part1
+
+commit 1cc42227e49bf772f96cd87c207b409ea7c37ba1
+Author: krother <krother@academis.eu>
+Date:   Sat May 21 06:18:31 2016 +0200
+
+    update before moving
+
+commit 6a6e9227b313f6f131681b10e9a98f1d207b4d8c
+Author: krother <krother@academis.eu>
+Date:   Fri May 20 14:14:22 2016 +0200
+
+    added material for chapter 01
+
+commit dcbf3dca47746419621910dd5c89ce153fa83fb2
+Author: krother <krother@academis.eu>
+Date:   Wed May 11 01:12:41 2016 +0200
+
+    refactored more classes into part2 program
+
+commit e430f0e477e7ad6bec7324d3dd22fe4bb23b3b38
+Author: krother <krother@academis.eu>
+Date:   Mon May 2 10:13:45 2016 +0200
+
+    sprites working
+
+commit cc6566d4c40533b08d83d873f76f15c6a4e0c92a
+Author: krother <krother@academis.eu>
+Date:   Mon May 2 09:35:00 2016 +0200
+
+    added a few features for part II
+
+commit 7f85384d2a05ac6e1d57b3cdd7f2cc62b4886970
+Author: krother <krother@academis.eu>
+Date:   Wed Apr 27 01:35:41 2016 +0200
+
+    removed introduction folder
+
+commit 00775ae39c0ff0af64221986e6bf375a77a30454
+Author: krother <krother@academis.eu>
+Date:   Wed Apr 27 01:33:43 2016 +0200
+
+    refactored scripts on debugging into one file
+
+commit 413bcfabac79ca5bb8df17ccbadf9bffc23354ed
+Author: krother <krother@academis.eu>
+Date:   Wed Apr 27 00:57:47 2016 +0200
+
+    cleanup work
+
+commit efbe74e4b9de02d43313050983ee00633a70ebdf
+Author: krother <krother@academis.eu>
+Date:   Wed Apr 27 00:42:42 2016 +0200
+
+    added code full of bugs
+
+commit 193a2f2c43280e6ac16e3e5ff6052f3a99f0ed34
+Author: krother <krother@academis.eu>
+Date:   Tue Apr 26 13:42:31 2016 +0200
+
+    game in working state after writing chapters 02-06
+
+commit d0148dbe16ccd64156a50dc9a3756a427a9e0ed9
+Author: krother <krother@academis.eu>
+Date:   Tue Apr 26 11:31:46 2016 +0200
+
+    edited code while writing chapters 02-06
+
+commit b91c8ae8c308b769b86b45109e0ee7d28d5fb1e2
+Author: krother <krother@academis.eu>
+Date:   Sun Mar 6 20:16:08 2016 +0100
+
+    added maze generator
+
+commit f5eb1a58391fa6cc0041c7ab087dfe4d9e4d4fa7
+Author: krother <krother@academis.eu>
+Date:   Thu Mar 3 09:08:44 2016 +0100
+
+    added maze generator
+
+commit b8e131959627e80dce94de5ad8c76916abe48634
+Author: krother <krother@academis.eu>
+Date:   Mon Feb 29 10:13:10 2016 +0100
+
+    added bugs
+
+commit b2155b8036c3997fd6a6a98bf3a4e2522335a75b
+Author: krother <krother@academis.eu>
+Date:   Sat Feb 27 23:38:59 2016 +0100
+
+    cleaned up import
+
+commit 3625f8d20b60e0f78e48fdfe9a5461f421f76fbf
+Author: krother <krother@academis.eu>
+Date:   Fri Feb 26 12:21:40 2016 +0100
+
+    fixed bug in moves.py
+
+commit 9102f2c10702cda745ea82b4a9b9af5eeae6e0a7
+Author: krother <krother@academis.eu>
+Date:   Fri Feb 26 10:45:27 2016 +0100
+
+    fixed background of tiles
+
+commit 1991ccbc0be4222d57ff6076182435b56f6ef207
+Author: krother <krother@academis.eu>
+Date:   Wed Feb 24 17:39:36 2016 +0100
+
+    code for first part released
+
+commit 164de6f680682f330196b66262b74955fa2d2a9a
+Author: krother <krother@academis.eu>
+Date:   Wed Feb 24 08:46:56 2016 +0100
+
+    set up maze run project
